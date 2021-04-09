@@ -1,0 +1,5 @@
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\task a\obj\Debug\net5.0\task a.csprojAssemblyReference.cache
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\task a\obj\Debug\net5.0\task a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\task a\obj\Debug\net5.0\task a.AssemblyInfoInputs.cache
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\task a\obj\Debug\net5.0\task a.AssemblyInfo.cs
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\task a\obj\Debug\net5.0\task a.csproj.CoreCompileInputs.cache
