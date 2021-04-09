@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EZEKIEL\\Documents\\PROGRAMMING TUTORIAL VIDEOS\\task a\\task a.csproj": {}
+    "C:\\Users\\EZEKIEL\\Documents\\PROGRAMMING TUTORIAL VIDEOS\\question_1\\task a.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EZEKIEL\\Documents\\PROGRAMMING TUTORIAL VIDEOS\\task a\\task a.csproj": {
+    "C:\\Users\\EZEKIEL\\Documents\\PROGRAMMING TUTORIAL VIDEOS\\question_1\\task a.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EZEKIEL\\Documents\\PROGRAMMING TUTORIAL VIDEOS\\task a\\task a.csproj",
+        "projectUniqueName": "C:\\Users\\EZEKIEL\\Documents\\PROGRAMMING TUTORIAL VIDEOS\\question_1\\task a.csproj",
         "projectName": "task a",
-        "projectPath": "C:\\Users\\EZEKIEL\\Documents\\PROGRAMMING TUTORIAL VIDEOS\\task a\\task a.csproj",
+        "projectPath": "C:\\Users\\EZEKIEL\\Documents\\PROGRAMMING TUTORIAL VIDEOS\\question_1\\task a.csproj",
         "packagesPath": "C:\\Users\\EZEKIEL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EZEKIEL\\Documents\\PROGRAMMING TUTORIAL VIDEOS\\task a\\obj\\",
+        "outputPath": "C:\\Users\\EZEKIEL\\Documents\\PROGRAMMING TUTORIAL VIDEOS\\question_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EZEKIEL\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -3,3 +3,19 @@ C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\task a\obj\Debug\net5.0\t
 C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\task a\obj\Debug\net5.0\task a.AssemblyInfoInputs.cache
 C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\task a\obj\Debug\net5.0\task a.AssemblyInfo.cs
 C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\task a\obj\Debug\net5.0\task a.csproj.CoreCompileInputs.cache
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\question_1\bin\Debug\net5.0\task a.exe
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\question_1\bin\Debug\net5.0\task a.deps.json
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\question_1\bin\Debug\net5.0\task a.runtimeconfig.json
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\question_1\bin\Debug\net5.0\task a.runtimeconfig.dev.json
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\question_1\bin\Debug\net5.0\task a.dll
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\question_1\bin\Debug\net5.0\ref\task a.dll
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\question_1\bin\Debug\net5.0\task a.pdb
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\question_1\obj\Debug\net5.0\task a.csprojAssemblyReference.cache
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\question_1\obj\Debug\net5.0\task a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\question_1\obj\Debug\net5.0\task a.AssemblyInfoInputs.cache
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\question_1\obj\Debug\net5.0\task a.AssemblyInfo.cs
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\question_1\obj\Debug\net5.0\task a.csproj.CoreCompileInputs.cache
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\question_1\obj\Debug\net5.0\task a.dll
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\question_1\obj\Debug\net5.0\ref\task a.dll
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\question_1\obj\Debug\net5.0\task a.pdb
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\question_1\obj\Debug\net5.0\task a.genruntimeconfig.cache

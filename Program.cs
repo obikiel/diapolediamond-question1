@@ -5,7 +5,7 @@ namespace task_a
     class Program
     {
 
-        private static void SetAllZeroes(ref int[][] matrix)
+        public static void SetAllZeroes(ref int[][] matrix)
         {
             bool[] row = new bool[matrix.Length];
             bool[] column = new bool[matrix[0].Length];
@@ -37,7 +37,7 @@ namespace task_a
             }
 
         }
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             int[][] Matrix = new int[3][]
             {
@@ -53,6 +53,16 @@ namespace task_a
             Console.ReadLine();
         }
         
-        private static void PrintMatrix(int[][] matrix);
+       public static void PrintMatrix(int[][] matrix)
+        {
+            for(int i = 0; i<matrix.Length; i++)
+            {
+                for(int j=0; j<matrix[i].Length; j++)
+                {
+                    Console.Write(matrix[i][j]);
+                    Console.Write(" ");
+                }
+            }
+        }
     }
 }
